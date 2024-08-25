@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">HelloWorld</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">Iniciando o Desenvolvimento Android</string>
+    <string name="second_fragment_label">Vamos Programar???</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="lorem_ipsum">
+        Vou estudar muito para desenvolver um app de sucesso!!!
+    </string>
+</resources>
